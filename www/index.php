@@ -1,3 +1,3 @@
 <?php
 
-include_once "/openserver/domains/test.loc/hello.html";
+include_once "./hello.html";
