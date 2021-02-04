@@ -1,0 +1,19 @@
+.test
+{
+    background-image: url(https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png);
+}
+
+.test2
+{
+    background-image: url("img\\1461912.svg");
+}
+
+.test3
+{
+    background-image: url("C:\\Users\\vadim\\OneDrive\\Рабочий стол\\TEST\\img\\1(1).jpg");
+}
+
+.test4
+{
+    background-color: #ffffff;
+}
