@@ -24,6 +24,7 @@
 | Ctrl + Shift + D | Отладка                        |
 | Ctrl + Shift + X | Расширения                     |
 | Ctrl + B         | Показать / скрыть левую панель |
+| Ctrl + `         | оказать / скрыть Терминал      |
 
 ### Главные комбинации для работы с редактором
 
@@ -195,13 +196,13 @@
 Настройка launch.json файла.
 
 - "Launch Chrome for specific file":
-Отладка js, для отдельного файла в googl chrome;
+    Отладка js, для отдельного файла в googl chrome;
 
 - "Launch Chrome for myproject.loc":
-Отладка js, для локального сервера в googl chrome;
+    Отладка js, для локального сервера в googl chrome;
 
 - "Listen for XDebug":
-Отладка php, для локального сервера;
+    Отладка php, для локального сервера;
 
 ```json
 {
